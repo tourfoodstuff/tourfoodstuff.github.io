@@ -1,2 +1,5 @@
-User-agent: *
-Allow: /
+User-Agent: *
+
+Disallow: /life/
+
+Sitemap: https://pexcn.me/sitemap.txt
